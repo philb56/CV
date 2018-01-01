@@ -47,7 +47,7 @@ I have worked as an Oracle developer on enterprise level projects for many diffe
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Portsmouth Polytechnic 
+#### Portsmouth University
 
 - HND Computer Studies
 
@@ -56,8 +56,13 @@ I have worked as an Oracle developer on enterprise level projects for many diffe
 **EON** (Jan 2016 to Mar 2017)   
 *Developer and Scrum Master*  
 
+more to follow
+
 **Man Group** (Dec 2006 to Nov 2014)    
 *Senior Developer and Scrum Master*
+
+more to follow
+
 
 ## Interests
 
@@ -67,4 +72,4 @@ I have worked as an Oracle developer on enterprise level projects for many diffe
 
 **Guitar/Piano** I enjoy playing both but strictly within the confines of my home
 
-**DIY/Home Improvement** I have just completed a deck and yorkstone terrace in my garden, have also project managed to varying egrees 4 major works - 2 extensions, new roof, internal remodelling.
+**DIY/Home Improvement** I tackled many different projects over the years and have just completed a deck and yorkstone terrace in my garden, I have also project managed to varying degrees 4 major works - 2 extensions, new roof, internal remodelling.
