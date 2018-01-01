@@ -36,7 +36,7 @@ I have worked as an Oracle developer on enterprise level projects for many diffe
 
 ## Education
 
-#### Makers Academy (Dec 2017 to Mar 2018)
+#### Makers Academy (Dec 2017 to Mar 2018) - TBA
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -62,6 +62,9 @@ I have worked as an Oracle developer on enterprise level projects for many diffe
 ## Interests
 
 **Walking** I enjoy an epic trip and from May-July 2017 completed the 630 mile Southwest Coast Path (SWCP) carrying a 30lb pack - currently trying to envisage the next one
+
 **Photography** I'm not particularly technical but enjoy capturing the beatiful things that I pass when walking - I took over 10,000 photos whilst walking the SWCP
+
 **Guitar/Piano** I enjoy playing both but strictly within the confines of my home
+
 **DIY/Home Improvement** I have just completed a deck and yorkstone terrace in my garden, have also project managed to varying egrees 4 major works - 2 extensions, new roof, internal remodelling.
